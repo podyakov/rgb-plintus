@@ -1,4 +1,4 @@
-# super-parket
+# super-skirting board
 Arduino Sketch For Living Room Random Magic Light (by Wid and Ko_no)
 
 Tested with Arduino Nano and WS2812b/SM16703p led strip.
